@@ -2,7 +2,6 @@ name: Kevin Takashi Cohen
 favicon: null
 layout_spectrum: 0.5390054550953209
 typography_spectrum: 0.35044354456476867
-title: Kevin Takashi Cohen
 cta:
   domain: null
   bucket: null
@@ -23,7 +22,7 @@ color:
     - '#3A6EA5'
     - '#004E98'
   brandStrength: 0.6188886924646795
-  lightness: 0.625
-  saturation: 0.625
-  rhythmicContrast: 1
+  lightness: 0.9143391964025795
+  saturation: 0.8554447398055345
+  rhythmicContrast: 0.677752181654796
 purpose: []
